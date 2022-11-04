@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projet´é um calendário da Copa que mostra as datas e horários dos primeiros jogos do Brasil.
+O projeto é um calendário da Copa que mostra as datas e horários dos primeiros jogos do Brasil.
 
 ## 🔖 Layout
 
